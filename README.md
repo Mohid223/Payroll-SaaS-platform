@@ -9,3 +9,16 @@ This is the backend setup for the Payroll-SaaS-Project as part of Week 1 Backend
 - Mysql
 -dotenv
 
+
+## Internship Progress
+
+Week 1:
+- Backend project setup
+- Express server
+- MySQL connection
+- Basic routes
+
+Week 2:
+- Database schema design
+- API contract documentation
+- Authentication & authorization plan

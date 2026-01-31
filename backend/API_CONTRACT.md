@@ -1,6 +1,8 @@
 # API CONTRACT - PAYROLL BACKEND
 
 Base URL: /api
+
+---------------------
  
 # AUTH APIs
 
@@ -9,6 +11,8 @@ Purpose: User login
 
 POST /auth/register
 Purpose: Create user
+
+---------------------
 
 #  EMPLOYEE APIs
 
@@ -27,6 +31,8 @@ Purpose: Update employee
 DELETE /employees/:id
 Purpose: Delete employee
 
+---------------------
+
 # PAYROLL APIs
 
 GET /payroll/:employeeId
@@ -34,6 +40,8 @@ Purpose: Get payroll data
 
 POST /payroll/run
 Purpose: Generate payroll
+
+---------------------
 
 SUCCESS RESPONSE FORMAT
 

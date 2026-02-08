@@ -7,6 +7,9 @@ app.use(express.json());
 const userRoutes = require("./routes/userRoutes");
 app.use("/api", userRoutes);
 
+const employeeRoutes = require("./routes/employeeRoutes");
+app.use("/api/employees", employeeRoutes);
+
 app.get("/", (req, res) => { 
     res.send("backend server is running ");
 });

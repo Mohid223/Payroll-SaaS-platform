@@ -22,3 +22,9 @@ Week 2:
 - Database schema design
 - API contract documentation
 - Authentication & authorization plan
+
+Week 3:
+- Developed Employee Management APIs using Node.js, Express.js, and MySQL.
+- Implemented CRUD operations for employee records.
+- Integrated database using parameterized queries for secure data handling.
+- Performed API testing with proper validation and error handling.
